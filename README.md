@@ -14,4 +14,4 @@ b.html
 
 Vista Previa:
 ------
-![Ada-Lovelace](assets/img/captura.jpg)
+![Ada-Lovelace](https://raw.githubusercontent.com/NatalyCortez/ada-lovelace/master/assets/img/Captura.JPG)
